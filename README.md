@@ -1,4 +1,4 @@
-# Project Alpha: GovTech Zero-Trust Security Matrix
+# GovTech Zero-Trust Security Matrix
 **An Operational Cybersecurity Framework for Scaling Digital Public Infrastructure (DPI)**
 
 ## Executive Summary
